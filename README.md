@@ -1,2 +1,2 @@
 # ARKANOID-DAM
-Repositorio proyecto juego arkanoid DAM CARLOSIII
+Repositorio del proyecto de aprendizaje y colaboración de creación del juego arkanoid por alumnos DAM CARLOSIII
